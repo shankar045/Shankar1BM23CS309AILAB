@@ -1,6 +1,5 @@
-shankar shivappa pujar
-
-print("Shankar ()")
+print("Shankar s pujar()")
+print("1BM23CS309")
 def create_board():
     return [["-" for _ in range(3)] for _ in range(3)]
 
@@ -66,3 +65,4 @@ def tic_tac_toe():
 
 if __name__ == "__main__":
     tic_tac_toe()
+
